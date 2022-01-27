@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img width="400" src="./assets/logo.svg" alt="logo of Dino Frame Vue3">
+  <img width="300px" src="./assets/logo.png" alt="logo of Dino Frame Vue3">
   <br>
   <br>
 </p>
@@ -41,4 +41,4 @@ dino-frame-vue3, 是基于Vue3和TypeScript开发的前端框架，目的和 Din
 
 ## License
 
-dino-frame-vue3 is open source software licensed as [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+dino-frame-vue3 is open source software licensed as [Apache-2.0](https://gitee.com/dino-proj/dino-frame-vue3/blob/master/LICENSE).
