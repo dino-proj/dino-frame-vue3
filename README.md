@@ -3,10 +3,7 @@
 <p align="center">
   <br>
   <img width="300px" src="./assets/logo.png" alt="logo of Dino Frame Vue3">
-  <br>
-  <br>
 </p>
-<h2 align='center'>dino-frame-vue3</h2>
 
 <p align='center'>
 dino-frame-vue3, 是基于Vue3和TypeScript开发的前端框架，目的和 DinoSpring Framewaorks 后端框架配合使用
