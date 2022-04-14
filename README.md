@@ -38,4 +38,4 @@ dino-frame-vue3, 是基于Vue3和TypeScript开发的前端框架，目的和 Din
 
 ## License
 
-dino-frame-vue3 is open source software licensed as [Apache-2.0](https://gitee.com/dino-proj/dino-frame-vue3/blob/master/LICENSE).
+dino-frame-vue3 is open source software licensed as [Apache-2.0](./LICENSE).
